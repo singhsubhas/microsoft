@@ -1,0 +1,79 @@
+/* #life{
+    height: 200px;
+    width: 200px;
+    border-radius: 2px solid red;
+    box-shadow: 0px 0px 10px black;
+
+    margin-left: 401px;
+    margin-top: 60px;
+}
+
+button{
+    margin-left: 180px;
+    margin-top: 40px;
+    /* text-decoration: none; */
+    /* font-size: 30px;
+    /* text-decoration-color: red; */
+/* }
+#a1{
+    text-align: center;
+    
+}
+img{
+    display: block;
+    height: 600px;
+    width: 580px;
+    margin-left: 460px;
+
+}  */
+
+
+/* #cnt{
+    height: 400px;
+    width: 500px;
+    box-shadow: 0px 0px 10px black;
+    
+}
+.f{
+    background-image: url(https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?cs=srgb&dl=pexels-george-desipris-792381.jpg&fm=jpg);
+}
+.g{
+background-image: url(https://cdn.pixabay.com/photo/2018/04/13/21/24/lion-3317670__340.jpg);
+}
+.h{
+background-image: url(https://thumbs.dreamstime.com/b/love-birds-colorful-background-61784122.jpg);
+} */
+
+
+/* #c2{
+    height: 400px;
+    width: 1000px;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+label{
+    margin-left: 200px;
+}
+#c1{
+    margin-left: 600px;
+} */
+#create{
+    display: flex;
+}
+div>div>div{
+    margin: 10px;
+}
+
+input{
+    margin-left: 10px;
+    margin-top: 100px;
+}
+label{
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+button{
+    margin-left: 400px;
+}
